@@ -158,11 +158,11 @@ user interface
 
 7. 前端页面的设计中，html、css和javascript分别的作用是？
 
-+ html 是设计结构
++ html 是控制页面内容和结构
 
-+ css 是设计样式
++ css 是控制页面样式
 
-+ javascirt设计网页动态交互
++ javascirt 控制网页行为
 
 HTML可以实现网页内容和样式的分离，布局方式推荐使用Div+Css
 
